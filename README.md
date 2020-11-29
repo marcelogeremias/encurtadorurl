@@ -11,8 +11,9 @@ Um simples micro-SaaS para compartilhamento de URL utilizando Node.js e React.
 ### 2.1. Instalação
 
 1. No Terminal, acessar a pasta do Back-End e rodar o comando `npm install` para instalar os pacotes necessários.
-2. Configurar o arquivo  `src/databse.ts` com as informações de acesso do seu banco de dados.
-3. Executar o comando `npm run dev` para fazer a validação do TypeScript e inicializar o servidor. 
+2. Configurar o arquivo  `src/database.ts` com as informações de acesso do seu banco de dados.
+3. Caso queira limpar a tabela toda vez que rodar o projeto, inserir este comando no server.ts: `database.sync({force: true});`
+4. Executar o comando `npm run dev` para fazer a validação do TypeScript e inicializar o servidor. 
 
 ### 2.2 Como usar a API?
 
