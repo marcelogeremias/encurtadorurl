@@ -3,8 +3,8 @@ Um simples micro-SaaS para compartilhamento de URL utilizando Node.js e React.
 
 ## 1. Links
 
-- [Projeto](http://www.encurtadorurl.tk/)
-- [API](http://api.encurtadorurl.tk:3001)
+- [Projeto](http://projetos.marcelogeremias.com.br/)
+- [API](http://apiprojetos.marcelogeremias.com.br:3001)
 
 ## 2. API (Back-End)
 
