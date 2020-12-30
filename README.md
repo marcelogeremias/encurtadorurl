@@ -47,3 +47,7 @@ Realizar um GET na URL `http://localhost:3001/links/:code/stats` onde *:code* de
 ### 3.2. Acessar o projeto
 
 A URL para acessar o projeto é `http://localhost:3000`. Para que possa funcionar corretamente, é necessário estar com o servidor back-end inicializado.
+
+## 4. Agradecimentos
+
+Esse projeto foi desenvolvido seguindo os ensinamentos de Luiz F. Duarte Jr. e Daniel Castro Silva na Semana Web Full Stack, que aconteceu entre os dias 23/11/2020 a 27/11/2020. Deixo aqui o meu agradecimento por compartilhar o conhecimento.
